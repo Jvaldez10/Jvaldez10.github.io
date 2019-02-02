@@ -1,32 +1,4 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
 
- body, h1, h2, h3, h4, h5, h6 {
-     font-family: "Raleway", sans-serif
- }
- #contenedor{
-     margin-left:300px;
- }
-#body{
-    max-width:1600px
-}
-#mySidebar{
-    z-index:3;width:300px;
-}
-#avatar{
-    height:230px;
-    width: 276px;
-    align-content: center;
-
-}
-#habilidades{
-    margin:0 -16px;
-}
-#prog-bar1{
-    width:50%
-}
 /* nuevos estilos para resuemen persnal*/
 /* uses font awesome for social icons */
 @import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
